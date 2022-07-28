@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstantReplay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstantReplay_jar</output-path>
+    <root id="archive" name="InstantReplay.jar">
+      <element id="module-output" name="InstantReplay" />
+    </root>
+  </artifact>
+</component>
